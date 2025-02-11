@@ -40,7 +40,8 @@ Abra o arquivo index.html em seu navegador.
 
 🌍 Deploy
 
-O projeto está hospedado em: Power Valhalla Academy - GitHub Pages (atualizar quando fizer o deploy)
+O projeto está hospedado em: [Power Valhalla Academy - GitHub Pages](https://luis-castilhos.github.io/webAcademy/)
+
 
 📌 Melhorias Futuras no Projeto
 
