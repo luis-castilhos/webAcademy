@@ -42,7 +42,7 @@ Abra o arquivo index.html em seu navegador.
 
 O projeto está hospedado em: Power Valhalla Academy - GitHub Pages (atualizar quando fizer o deploy)
 
-📌 Melhorias Futuras
+📌 Melhorias Futuras no Projeto
 
 Integração com API para gerar treinos personalizados.
 
